@@ -1,0 +1,33 @@
+"The Girl on the Train" by Hawkins, P.
+"Memory Man " by Baldacci, D.
+"The Stranger" by Coben, H.
+"Before I Go To Sleep" Watson, S.
+"An Innocent Client" by Pratt, S.
+"Pirate Latitudes" by Crichton, M.
+"The One That Got Away" by Wood, S.
+"Boundary Crossed" by Olson, M.
+"Abducted" by Ragan, T.
+"Silent Scream" by Marsons, A.
+"Every Fifteen Minutes" by Scottoline, L.
+"In Good Faith" by Pratt, S.
+"Twisted" by Kaufman, A.
+"Injustice For All" by by Pratt, S.
+END
+PRINT
+BORROW "Pirate Latitudes"
+BORROW "Every Fifteen Minutes"
+BORROW "Injustice For All"
+RETURN "Pirate Latitudes"
+BORROW "Silent Scream"
+RETURN "Injustice For All"
+SHELVE
+END
+RETURN "Every Fifteen Minutes"
+BORROW "The Girl on the Train"
+RETURN "The Girl on the Train"
+BORROW "In Good Faith"
+BORROW "Twisted"
+SHELVE
+END
+SHELVE
+END

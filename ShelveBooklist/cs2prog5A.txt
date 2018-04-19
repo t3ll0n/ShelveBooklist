@@ -1,0 +1,33 @@
+"The Canterbury Tales" by Chaucer, G.
+"Maltese Falcon" by Hammett, D.
+"Enders Game" by Card, O.
+"City of Bones" Clare, C.
+"Life of Pi" by Martel, Y.
+"Algorithms" by Sedgewick, R.
+"A Tree Grows in Brooklyn" by Smith, B.
+"An Abundance of Katherines" by Green, J.
+"Anne of Green Gables" by Montgomery, L.
+"Farenheit 451" by Bradbury, R.
+"Jane Eyre" by Bronte, C.
+"Animal Farm" by Orwell, G.
+"Hunger Games" by Collins, S.
+"The C Programming Language" by Kernighan, B. and Ritchie, D.
+END
+PRINT
+BORROW "Algorithms"
+BORROW "Jane Eyre"
+BORROW "The C Programming Language"
+RETURN "Algorithms"
+BORROW "Farenheit 451"
+RETURN "The C Programming Language"
+SHELVE
+END
+RETURN "Jane Eyre"
+BORROW "The Canterbury Tales"
+RETURN "The Canterbury Tales"
+BORROW "Animal Farm"
+BORROW "Hunger Games"
+SHELVE
+END
+SHELVE
+END

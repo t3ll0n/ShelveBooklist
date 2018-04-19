@@ -1,0 +1,37 @@
+
+Name: Tellon Smith
+Course: CS 1063 - Data Structures & ADT, Spring 15, Dr. Stringfellow
+Program Assignment: #5B
+Due Date: Friday, Apr. 24, 2015, 9AM
+Purpose: This program uses linked lists to keeps track of books that are shelved,
+          and returned and tells the librarian where the returned books should be
+          inserted on the shelve
+
+Welcome to the Shelve Booklist Program!
+
+SHELF LIST:
+"A Tree Grows in Brooklyn"
+"Algorithms"
+"An Abundance of Katherines"
+"Animal Farm"
+"Anne of Green Gables"
+"City of Bones"
+"Enders Game"
+"Farenheit 451"
+"Hunger Games"
+"Jane Eyre"
+"Life of Pi"
+"Maltese Falcon"
+"The C Programming Language"
+"The Canterbury Tales"
+
+Put "Algorithms" after "A Tree Grows in Brooklyn"
+Put "The C Programming Language" after "Maltese Falcon"
+END
+Put "Jane Eyre" after "Enders Game"
+Put "The Canterbury Tales" after "The C Programming Language"
+END
+There are no books to shelve
+END
+
+Thank you for using the Shelve Booklist Program... Goodbye!

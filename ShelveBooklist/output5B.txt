@@ -1,0 +1,37 @@
+
+Name: Tellon Smith
+Course: CS 1063 - Data Structures & ADT, Spring 15, Dr. Stringfellow
+Program Assignment: #5B
+Due Date: Friday, Apr. 24, 2015, 9AM
+Purpose: This program uses linked lists to keeps track of books that are shelved,
+          and returned and tells the librarian where the returned books should be
+          inserted on the shelve
+
+Welcome to the Shelve Booklist Program!
+
+SHELF LIST:
+"Abducted"
+"An Innocent Client"
+"Before I Go To Sleep"
+"Boundary Crossed"
+"Every Fifteen Minutes"
+"In Good Faith"
+"Injustice For All"
+"Memory Man "
+"Pirate Latitudes"
+"Silent Scream"
+"The Girl on the Train"
+"The One That Got Away"
+"The Stranger"
+"Twisted"
+
+Put "Injustice For All" after "In Good Faith"
+Put "Pirate Latitudes" after "Memory Man "
+END
+Put "Every Fifteen Minutes" after "Boundary Crossed"
+Put "The Girl on the Train" after "Pirate Latitudes"
+END
+There are no books to shelve
+END
+
+Thank you for using the Shelve Booklist Program... Goodbye!
